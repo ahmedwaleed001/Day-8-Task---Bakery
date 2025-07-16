@@ -1,0 +1,105 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-image: url(/drew-coffman-1872.jpg);
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 60px;
+    padding-top:15px ;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    background-color: #b6a7a7;
+    padding-bottom: 12px;
+    unicode-bidi:isolate;
+
+.logo{
+
+    text-decoration: none;
+    color: #969696;
+    font-size: 1.8em;
+    text-decoration: none;
+    margin-left: 8px;
+    font-weight: 900;
+    font-style: italic;
+    
+}
+.logo img{
+
+    width: 25px;
+    height: 25px;
+    background-position: center;
+    border-radius: 50%;
+    padding-top: 4px;
+    padding-right: 1px;
+}
+
+
+}
+.nav-bar a{
+
+    text-decoration: none;
+    color: #969696;
+    font-size: 23px;
+    text-decoration: none;
+    margin-left: 8px;
+}
+.texts{
+
+    margin: auto;
+    text-align: center;
+    padding-top: 350px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #e2d4d4;
+
+}
+
+#wel{
+
+    font-size: 25px;
+}
+.texts h1 {
+
+    font-size: 40px;
+    font-weight: 700;
+    font-style: italic;
+}
+#p2  {
+    font-size: 25px;
+}
+#p3{
+    font-size: 25px;
+}
+.buttons {
+        text-align: center;
+        padding-top: 60px;
+        margin-top: 20px;
+        display: flex;
+        display: inline;
+}
+#learn{
+    
+padding-left: 300px;
+p
+
+    display: inline;
+
+}
+#contact{
+
+    display: inline;
+}
